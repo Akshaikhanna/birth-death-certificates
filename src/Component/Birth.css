@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+}
+
+.text{
+    color: rgb(4, 69, 91);
+    margin-top: -5%;
+    padding: 50px;
+}
+
+.gender{
+    margin-right: 11%;
+    margin-top: 7%;
+}
+
+.district{
+    margin-right: 8.5%;
+    margin-top: -5%;
+}
+
+.phone{
+    margin-right: 9.5%;
+    margin-top: 1%;
+}
+
+.pob{
+    margin-right: 4%;
+    margin-top: 1%;
+}
+
+.dob{
+    margin-right: 5%;
+    margin-top: 1%;  
+}
+
+.fn{
+    margin-top: 1%;
+    margin-right: 6.5%;
+}
+
+.mn{
+    margin-top: 1%;
+    margin-right: 6%;
+}
+
+.btn{
+    background-color: greenyellow;
+    margin-top: 1%;
+    margin-right: 12%;
+    font: size 20px;
+}
+
+.btn1{
+    margin-right: 90%;
+    margin-top: 1%;
+}
+
+.btn2{
+    margin-left: 85%;
+    margin-top: 1%;
+}
+
+.Home{
+    padding: 5px;
+    margin-left: 5px;
+    left: 91%;
+}
+  
+.pc{
+    padding: 5px;
+    margin-left: 80%;
+}
+

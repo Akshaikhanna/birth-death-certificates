@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Form, Alert } from 'react-bootstrap';
-import Birth from './Birth';
+import Birth from '../pages/Birth';
 import './Sign.css'
 
 

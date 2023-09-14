@@ -2,7 +2,6 @@ import React from 'react'
 import './Home.css'
 import logo1 from '../img/logo1.png'
 import tn from '../img/Tn.png'
-// import bnd from '/Users/aksha/birth-death-certificate/src/img/bnd.png'
 //  import { useNavigate } from 'react-router-dom'
 import bnd from "../img/bnd.png"
 
@@ -29,16 +28,14 @@ function Home() {
       <div className='t'>
         <img src={tn} alt='' className='tn' />
         <img src={bnd} alt='' className='bnd' />
-        <h2>BIRTH AND DEATH CERTIFICATE</h2>
-
         <div className='t1'>
-          <h2>Government of Tamil Nadu</h2>
+          <h2 className='title'>Government of Tamil Nadu</h2>
         </div>
+        <h2>BIRTH AND DEATH CERTIFICATE</h2>
       </div>
 
       <div>
         <nav className='nav'>
-
           <button className='btn6' onClick={onButtonClick}>About us</button>
           <a href='/Login'><button className='btn5' type='submit' >Login</button></a>
         </nav>

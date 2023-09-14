@@ -1,0 +1,72 @@
+.nav1{
+    background-color: rgb(78, 2, 78);
+    margin-top: 1%;
+}
+
+.hd{
+    margin-top: 0%;
+}
+
+.form1{
+    border: 3px solid black;
+    float: left;
+    left: 50px;
+    margin-left: 2%;
+    margin-top: 2%;
+    padding: 20px 20px 25px 20px;
+}
+
+.F2{
+    border: 3px solid black;
+    float: right;
+    right: 50px;
+    margin-right: 2%;
+    margin-top: 2%;
+    padding: 20px 20px 25px 20px;
+    width: 500px;
+}
+
+.g{
+  margin-right: 50%;
+}
+
+.district{
+    margin-left: 0%;
+}
+
+.pod{
+    margin-right: 15%;
+}
+
+.bod{
+    margin-right: 9%;
+}
+
+.Phone{
+    margin-right: 30%;
+}
+
+.tn3{
+    float: right;
+    width: 75px;
+    height: 75px;
+    margin-bottom: 1%;
+}
+
+.bnd3{
+    float: left;
+    width: 65px;
+    height: 65px;
+    margin-top: 1%;
+}
+
+.ot2{
+    margin-right: 45%;
+}
+
+.btnd1{
+    margin-top: 34%;
+    background-color: black;
+    color: white;
+    font-size: medium;
+}
